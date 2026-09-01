@@ -8,7 +8,7 @@
 #include <LayerShellQt/Shell>
 #include <LayerShellQt/Window>
 
-#include "widgets/central_widget.hpp"
+#include "central_widget.hpp"
 
 int main(int argc, char **argv) {
     // Initialize Application

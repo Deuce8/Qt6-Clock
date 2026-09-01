@@ -1,4 +1,4 @@
-#include "widgets/central_widget.hpp"
+#include "central_widget.hpp"
 
 // ------------------------------------------------
 // |                 Constructor                  |
